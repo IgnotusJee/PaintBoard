@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>save.png</file>
+        <file>load.png</file>
+        <file>add_dll.png</file>
+    </qresource>
+</RCC>
